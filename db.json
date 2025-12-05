@@ -1,0 +1,25 @@
+{
+    "pytania": [
+        {
+            "tresc": "How many holes in a polo",
+            "odpa": "2",
+            "odpb": "3",
+            "odpc": "4",
+            "poprawna": 3
+        },
+        {
+            "tresc": "Can a match box",
+            "odpa": "No, but a tin can",
+            "odpb": "Yes, even one beat Mike Tyson",
+            "odpc": "Yes",
+            "poprawna": 2
+        },
+        {
+            "tresc": ".sdrawkcab noitseuq siht rewsnA",
+            "odpa": "Tennis Elbow",
+            "odpb": "K.O.",
+            "odpc": "What?",
+            "poprawna": 2
+        }
+    ]
+}
